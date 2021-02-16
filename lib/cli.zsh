@@ -105,7 +105,7 @@ function _omz::log {
 
 ## User-facing commands
 
-function _omz::help {
+function _omz -h {
   cat <<EOF
 Usage: omz <command> [options]
 
